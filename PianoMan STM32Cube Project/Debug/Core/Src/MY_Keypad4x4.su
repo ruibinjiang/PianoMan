@@ -1,0 +1,2 @@
+MY_Keypad4x4.c:44:6:Keypad4x4_Init	8	static
+MY_Keypad4x4.c:125:6:Keypad4x4_ReadKeypad	16	static

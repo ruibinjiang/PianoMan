@@ -1,0 +1,6 @@
+visEffect.c:26:6:setKey	24	static
+visEffect.c:37:6:setRed	16	static
+visEffect.c:43:6:clearLED	8	static
+visEffect.c:47:6:visRainbow	32	static
+visEffect.c:86:6:visInit	8	static
+visEffect.c:120:6:visHandle	8	static
